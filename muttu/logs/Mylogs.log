@@ -1,2 +1,22 @@
 [INFO ] 2019-04-02 11:04:19.808 [main] GetData - Muttu  Hulagabal
 [INFO ] 2019-04-02 11:04:19.812 [main] GetData - 123  123
+[INFO ] 2019-04-02 11:08:57.741 [main] GetData - Muttu  Hulagabal
+[INFO ] 2019-04-02 11:08:57.745 [main] GetData - 123  123
+[DEBUG] 2019-04-02 11:10:41.787 [main] BaseOne - this is befor test fron the base class
+[INFO ] 2019-04-02 11:10:42.158 [main] GetData - Muttu  Hulagabal
+[INFO ] 2019-04-02 11:10:42.160 [main] GetData - 123  123
+[DEBUG] 2019-04-02 12:27:07.591 [main] BaseOne - this is befor test fron the base class
+[INFO ] 2019-04-02 12:27:08.005 [main] GetData - Muttu  Hulagabal
+[INFO ] 2019-04-02 12:27:08.007 [main] GetData - 123  123
+[DEBUG] 2019-04-02 16:32:56.783 [main] BaseOne - this is befor test fron the base class
+[INFO ] 2019-04-02 16:32:57.153 [main] GetData - Muttu  Hulagabal
+[INFO ] 2019-04-02 16:32:57.154 [main] GetData - 123  123
+[DEBUG] 2019-04-02 16:35:48.555 [main] BaseOne - this is befor test fron the base class
+[INFO ] 2019-04-02 16:35:48.926 [main] GetData - Muttu  Hulagabal
+[INFO ] 2019-04-02 16:35:48.927 [main] GetData - 123  123
+[DEBUG] 2019-04-02 16:36:14.955 [main] BaseOne - this is befor test fron the base class
+[INFO ] 2019-04-02 16:36:15.327 [main] GetData - Muttu  Hulagabal
+[INFO ] 2019-04-02 16:36:15.328 [main] GetData - 123  123
+[DEBUG] 2019-04-02 16:44:27.363 [main] BaseOne - this is befor test fron the base class
+[INFO ] 2019-04-02 16:44:27.738 [main] GetData - Muttu  Hulagabal
+[INFO ] 2019-04-02 16:44:27.740 [main] GetData - 123  123

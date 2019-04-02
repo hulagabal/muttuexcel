@@ -13,7 +13,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-public class GetData {
+public class GetData extends BaseOne {
 
 	private Logger logger = LogManager.getLogger(GetData.class);
 
@@ -31,8 +31,6 @@ public class GetData {
 		XSSFSheet sheet = book.getSheetAt(0);
 
 		int rowcount = sheet.getLastRowNum();
-
-		System.out.println("Row Numbers " + rowcount);
 
 		strArray = new String[rowcount + 1][2];
 
